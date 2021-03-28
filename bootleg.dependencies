@@ -1,15 +1,15 @@
 [
     {
         "remote":       "github",
-        "repository":   "geopd/device_xiaomi_sakura",
+        "repository":   "AlexThundrous/device_xiaomi_sakura",
         "target_path":  "device/xiaomi/sakura",
-        "revision":     "Octavi-11"
+        "revision":     "bootleg"
     },
     {
         "remote":       "github",
         "repository":   "geopd/vendor_xiaomi_sakura",
         "target_path":  "vendor/xiaomi",
-        "revision":     "lineage-18.0"
+        "revision":     "11"
     },
     {
         "remote":       "github",
